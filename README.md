@@ -1,5 +1,4 @@
-# CN-localization-guide
-From i8n to L10n。如何做好技术文档汉化与本地化工作。
+# 技术文档汉化与本地化的技巧
 
 ## 英译中文本翻译
 
