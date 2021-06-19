@@ -14,6 +14,7 @@
     - 例子(2)：请移步 [Red Hat - 什么是蓝绿部署](https://www.redhat.com/zh/topics/devops/what-is-blue-green-deployment) 以了解其定义和用途。
   
 - 标点转换 
+    - 全角引号似乎在 Markdown 中自动解析为半角 " - “，所以需要增加空格。
     - 逗号 
         - 英语中无顿号概念，并列短语考虑改为顿号。
         - 英语中逗号可以用来起始引用句，而中文无此用法，所以考虑改为冒号。
